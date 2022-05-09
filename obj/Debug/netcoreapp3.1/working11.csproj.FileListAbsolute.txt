@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\working11\bin\Debug\netcoreapp3.1\working11.exe
+C:\Users\Windows\source\repos\working11\bin\Debug\netcoreapp3.1\working11.deps.json
+C:\Users\Windows\source\repos\working11\bin\Debug\netcoreapp3.1\working11.runtimeconfig.json
+C:\Users\Windows\source\repos\working11\bin\Debug\netcoreapp3.1\working11.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\working11\bin\Debug\netcoreapp3.1\working11.dll
+C:\Users\Windows\source\repos\working11\bin\Debug\netcoreapp3.1\working11.pdb
+C:\Users\Windows\source\repos\working11\obj\Debug\netcoreapp3.1\working11.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\working11\obj\Debug\netcoreapp3.1\working11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\working11\obj\Debug\netcoreapp3.1\working11.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\working11\obj\Debug\netcoreapp3.1\working11.AssemblyInfo.cs
+C:\Users\Windows\source\repos\working11\obj\Debug\netcoreapp3.1\working11.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\working11\obj\Debug\netcoreapp3.1\working11.dll
+C:\Users\Windows\source\repos\working11\obj\Debug\netcoreapp3.1\working11.pdb
+C:\Users\Windows\source\repos\working11\obj\Debug\netcoreapp3.1\working11.genruntimeconfig.cache
